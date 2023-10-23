@@ -1,5 +1,4 @@
-<!-- About -->
-<h2>📌 About me</h2>
+
 
 - 💻 Learning as I work. I'm open to any types of feedbacks!
 - 🤖 I usually develop the ROT API
