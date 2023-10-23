@@ -23,21 +23,5 @@
 </div>
 > Contact me
 
-- Discord: [Mo9ses#9190](https://discordapp.com/users/588506090124345396/)
-- YouTube: [@Mo9ses](https://www.youtube.com/channel/UCIyuI9UVOzOQJ0XeGDgQ5uQ)
+- Discord: (https://discord.gg/8EsF74BnUg))
 
-
-<!-- Profile -->
-<br />
-<details open="open">
-  <summary><b>☄️ Profile</b></summary>
-  <br />  
-  <div align="center">
-    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=moisesgamingtv9&theme=material-palenight&hide_border=true" />
-    <br /><br />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=moisesgamingtv9&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgamingtv9&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" />
-    <br /><br />
-    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=moisesgamingtv9&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
-  </div>
-</details>
