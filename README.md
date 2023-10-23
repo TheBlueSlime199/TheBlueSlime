@@ -1,11 +1,3 @@
-<!-- Introduction -->
-![](https://komarev.com/ghpvc/?moisesgamingtv9=your-github-username&color=red&style=plastic)
-<div align="center">
-  <h2> Hello, I'm Mo9ses<img src="https://lh4.googleusercontent.com/lxVjL9arC6wGUvcdZO9MjmtLLpxlnMyEztoRSs92vPCEfPsaKDj3YeJOngYG0ruM9pKuckCiLZUcleryrpeYrO9vp3YngBgj9IH8OXGNdeHME2ivuGATLNb9ronTivU6s60ZvASU1zfWYFCue8mmPw" height="35px"></h2>
-  </a>
-  <br />
-</div>
-
 <!-- About -->
 <h2>📌 About me</h2>
 
